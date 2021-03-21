@@ -1,4 +1,4 @@
-# CSES / Codeforce / Codechef / Leetcode / Topcode
+# CSES / Codeforce / Codechef / Leetcode / Topcoder
 Firoz and Sid sol for cp
 
 
