@@ -13,3 +13,5 @@ https://www.geeksforgeeks.org/minimum-time-required-so-that-all-oranges-become-r
 https://www.geeksforgeeks.org/the-celebrity-problem/
 
 https://www.geeksforgeeks.org/coin-change-dp-7/
+
+https://www.geeksforgeeks.org/snake-ladder-problem-2/
